@@ -57,9 +57,6 @@ Para la primera base marciana (6 personas), se requieren:
 - Excedente de biomasa: 30 kg/día (alimento o plásticos).
 - Calor: 120–160 kW térmicos (calefacción y derretimiento de hielo).
 
-
-🔗 [Ver versión terrestre original: ShieldAir-Urban](https://github.com/enriqueherbertag-lgtm/ShieldAir-Urban)
-
 ## Estado actual
 
 ✅ Concepto adaptado de versión terrestre  
@@ -74,6 +71,8 @@ Para la primera base marciana (6 personas), se requieren:
   [Repositorio](https://github.com/enriqueherbertag-lgtm/Odiseo)
 - **Goliat-Son** — aterrizador y módulo de carga  
   [Repositorio](https://github.com/enriqueherbertag-lgtm/Goliat-Son)
+- **ShieldAir-Urban** — versión terrestre original  
+  [Repositorio](https://github.com/enriqueherbertag-lgtm/ShieldAir-Urban)
 
 ## Licencia
 
