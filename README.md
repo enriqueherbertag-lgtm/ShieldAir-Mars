@@ -1,5 +1,7 @@
 # ShieldAir - Marte
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **Producción de oxígeno, biomasa y calor desde la atmósfera marciana.**
 
 ShieldAir es una torre modular adaptada de su versión terrestre (originariamente diseñada para limpiar smog urbano). En Marte, convierte el CO₂ atmosférico (95%) en recursos vitales usando energía nuclear, luz LED y agua extraída del hielo marciano.
