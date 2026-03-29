@@ -76,10 +76,6 @@ Para la primera base marciana (6 personas), se requieren:
 - **ShieldAir-Urban** — versión terrestre original  
   [Repositorio](https://github.com/enriqueherbertag-lgtm/ShieldAir-Urban)
 
-## Licencia
-
-Apache 2.0 con restricción de uso comercial.
-
 ## Autor
 
 **Enrique Aguayo H.**  
