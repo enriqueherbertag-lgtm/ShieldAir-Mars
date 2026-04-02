@@ -59,6 +59,17 @@ Para la primera base marciana (6 personas), se requieren:
 - Excedente de biomasa: 30 kg/día (alimento o plásticos).
 - Calor: 120–160 kW térmicos (calefacción y derretimiento de hielo).
 
+## Estructura del repositorio
+
+- `/cad` — diseños mecánicos de la torre.
+- `/docs` — documentación técnica y conceptual.
+- `/hardware` — esquemas eléctricos y mecánicos.
+- `/software` — firmware y software de control.
+- `/simulations` — modelos de simulación de producción.
+- `/business` — análisis financiero y modelo de negocio.
+- `/certifications` — planes de certificación para equipos espaciales.
+- 
+
 ## Estado actual
 
 ✅ Concepto adaptado de versión terrestre  
