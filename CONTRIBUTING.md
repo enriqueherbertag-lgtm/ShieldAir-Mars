@@ -1,6 +1,6 @@
-# Guía para Contribuir a Odiseo
+# Guía para Contribuir 
 
-¡Gracias por tu interés en contribuir a Odiseo! Este documento explica el proceso para contribuir a este proyecto.
+¡Gracias por tu interés en contribuir a este proyecto.
 
 ## Tabla de Contenidos
 - [Código de Conducta](#código-de-conducta)
